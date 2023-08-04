@@ -1,20 +1,9 @@
-Olá,😃 meu nome é Jeison Oneres da Silva e sou um 
-desenvolvedor👩‍💻 de software que gosta de código e 
-Café! Falou de tecnologia e novos jeitos de 
-programar estou dentro!
+"👋 Saudações! Sou Jeison Oneres da Silva, um entusiasta do desenvolvimento com duas décadas de experiência na área. Tenho uma paixão por enfrentar desafios e estou constantemente explorando maneiras de expandir o potencial da tecnologia.
 
-Meu objetivo para 2021 será mostrar no meu perfil do github
-meu potencial no desenvolvimento de software!
+Minha jornada me levou a dominar o mundo do Frontend, trabalhando com JavaScript, CSS e HTML para criar interfaces envolventes. Também estou à vontade com frameworks como Angular, React e Vue.js, que me permitem transformar conceitos em experiências visuais memoráveis.
 
-Hoje voltado para:
-* Programação Backend com C# e Java.😎
-* Programação Frontend com Angular, React e Vue.😍
-* Programação Mobile com Android.🥳
+Além disso, tenho conhecimentos sólidos em C# e Java, com incursões bem-sucedidas no desenvolvimento móvel para Android. A resolução de problemas é a minha motivação, e estou sempre empolgado em explorar as maravilhas em constante evolução da tecnologia.
 
-Tudo isso com uma camada forte de TDD, Docker e Kubernetes😎
+Seja bem-vindo a um vislumbre do meu mundo de desenvolvimento, onde a busca pela inovação encontra um lar na curiosidade e criatividade." 
 
-Meu forte é Backend e pretendo melhorar muito mais!
-
-
-
-Claro! E ajudar a comunidade de desenvolvedores!🤠🤗🤗🤗
+Sinta-se à vontade para fazer mais ajustes se necessário!
