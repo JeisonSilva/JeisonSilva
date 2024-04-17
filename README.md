@@ -1,7 +1,20 @@
-"👋 Saudações! Sou Jeison Oneres da Silva, um entusiasta do desenvolvimento com duas décadas de experiência na área. Tenho uma paixão por enfrentar desafios e estou constantemente explorando maneiras de expandir o potencial da tecnologia.
+ :wave:Olá pessoal! meu nome é Jeison e sou Desenvolvedor de Software!. 
+ Os projetos que você vai encontrar em meu perfil são diversificados e normalmente separados em repositorios de cursos  [https://github.com/JsonCursos](https://github.com/JsonCursos) 
+ e de projetos pessoais em [https://github.com/JsonProjetos](https://github.com/JsonProjetos). os demais projeto e contribuição ficaram no perfil principal.
 
-Minha jornada me levou a dominar o mundo do Frontend, trabalhando com JavaScript, CSS e HTML para criar interfaces envolventes. Também estou à vontade com frameworks como Angular, React e Vue.js, que me permitem transformar conceitos em experiências visuais memoráveis.
+ ### Curso atual
+ [Vagrant](https://www.vagrantup.com/)
 
-Além disso, tenho conhecimentos sólidos em C# e Java, com incursões bem-sucedidas no desenvolvimento móvel para Android. A resolução de problemas é a minha motivação, e estou sempre empolgado em explorar as maravilhas em constante evolução da tecnologia.
+#### Conhecimentos adiquiridos
+* Provisionamento de máquina virtual
+* Execução de Scripts
+* Criação de receitas para preparar uma máquina virtual com Mysql instalado e sistema atualizado\\
 
-Seja bem-vindo a um vislumbre do meu mundo de desenvolvimento, onde a busca pela inovação encontra um lar na curiosidade e criatividade." 
+### Cursos anteriores
+* Html, css e javascript
+* C#, java
+* Docker, Kubernetes
+* Scrum, Metodoligias Ágeis
+
+### Projeto Atual
+Ferramenta para analisar histórico dos commits no Git.
