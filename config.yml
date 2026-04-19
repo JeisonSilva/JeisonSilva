@@ -1,0 +1,71 @@
+username: JeisonSilva
+
+profile:
+  name: "Jeison Silva"
+  tagline: "Full Stack Developer & Mobile Enthusiast"
+  company: ""
+  location: "Franco da Rocha, SP — Brasil"
+  bio: |
+    Desenvolvedor apaixonado por tecnologia com projetos que abrangem
+    mobile, web e infraestrutura. Sempre em busca de novos desafios.
+  philosophy: '"A tecnologia é melhor quando aproxima as pessoas." — Matt Mullenweg'
+
+social:
+  email: "jeison.desenvolvimento@gmail.com"
+  linkedin: "jeisonsilva"
+  website: ""
+
+galaxy_arms:
+  - name: "Mobile"
+    color: "dendrite_violet"
+    items:
+      - "Flutter"
+      - "Dart"
+      - "Java"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "C#"
+      - ".NET"
+      - "Node.js"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "Kubernetes"
+      - "Jenkins"
+
+projects:
+  - repo: "JeisonSilva/JudokaExpert"
+    arm: 0
+    description: "Aplicativo Flutter para orientação de judokas durante treinos com guias técnicos."
+  - repo: "JeisonSilva/CnabAnalizeScore"
+    arm: 1
+    description: "Sistema de análise de arquivos CNAB com pontuação e validação de transações bancárias."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
